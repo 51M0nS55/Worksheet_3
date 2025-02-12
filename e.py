@@ -1,7 +1,7 @@
 from numpy import arange, meshgrid, random, vectorize, average
 from matplotlib import pyplot as plt
 
-from abc import steps_count
+from prob_abc import steps_count
 
 random.seed(1108)
 
